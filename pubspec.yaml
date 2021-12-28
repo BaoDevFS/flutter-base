@@ -1,0 +1,83 @@
+name: flutter_base
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+  shared_preferences: ^2.0.8
+
+  # Classes and helper functions that support JSON code generation via the `json_serializable` package.
+  json_annotation: ^4.1.0
+
+  # Open screens/snackbars/dialogs without context, manage states and inject dependencies easily with GetX.
+  get: ^4.3.8
+
+  # Simple direct Service Locator that allows to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App"
+  get_it: ^7.2.0
+
+  # Injectable is a convenient code generator for get_it. Inspired by Angular DI, Guice DI and inject.dart.
+  injectable: ^1.5.0
+
+  # App Core Package.
+  app_core:
+    git:
+      url: https://github.com/BaoNguyenSE/ree-core.git
+      ref: main
+
+  # A flutter plugin for adapting screen and font size.Let your UI display a reasonable layout on different screen sizes!
+  flutter_screenutil: ^5.0.0+2
+
+  # Easy and Fast internationalizing and localization your Flutter Apps, this package simplify the internationalizing process .
+  easy_localization: ^3.0.0
+
+  # A simple Event Bus using Dart Streams for decoupling applications
+  event_bus: ^2.0.0
+
+  # A simple Event Bus using Dart Streams for decoupling applications
+  retrofit: ^2.0.1
+
+  # A simple Event Bus using Dart Streams for decoupling applications
+  dio: ^4.0.0
+
+  #package for Flutter allows you to easily use any of the 977 fonts
+  google_fonts: ^2.1.0
+
+  # Pretty Dio logger is a Dio interceptor that logs network calls in a pretty, easy to read format.
+  pretty_dio_logger: ^1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  # Lint rules for "Surf" company for Dart and Flutter projects. Like pedantic but stricter.
+  lint: ^1.7.2
+
+  # A build system for Dart code generation and modular compilation.
+  build_runner: ^2.1.4
+
+  # Automatically generate code for converting to and from JSON by annotating Dart classes.
+  json_serializable: ^5.0.2
+
+  # Injectable is a convenient code generator for get_it. Inspired by Angular DI, Guice DI and inject.dart.
+  injectable_generator: ^1.5.2
+
+  # retrofit generator is an dio client generator using source_gen and inspired by Chopper and Retrofit.
+  retrofit_generator: ^2.0.1+1
+
+  # The Flutter code generator for your assets, fonts, colors, … — Get rid of all String-based APIs.
+  flutter_gen_runner: ^4.0.0
+flutter_gen:
+  output: lib/
+flutter:
+  uses-material-design: true
+  assets:
+    - resources/images/
+    - resources/icons/
+    - resources/langs/
+

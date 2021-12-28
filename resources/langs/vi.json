@@ -1,0 +1,97 @@
+{
+  "app_name": "REE Food App",
+  "splash": {
+    "welcome": "REE Corp đồng hành cùng khách hàng & đối tác",
+    "description": "REE App cung cấp dịch vụ và kết nối với khách hàng, đối tác của REE"
+  },
+  "auth": {
+    "login": "Đăng Nhập",
+    "login_to_experience": "Đăng nhập để trải nghiệm REE app",
+    "phone_number": "Số điện thoại",
+    "enter_phone_number": "Nhập số điện thoại",
+    "password": "Mật khẩu",
+    "enter_password": "Nhập mật khẩu",
+    "forgot_password": "Quên mật khẩu?",
+    "sign_in_with_google": "Đăng nhập bằng Google",
+    "sign_in_with_apple": "Đăng nhập bằng Apple",
+    "sign_up": "Đăng ký",
+    "if_you_do_not_have_an_account": " nếu bạn chưa có tài khoản",
+    "welcome_experience_ree": "Chào mừng bạn trải nghiệm REE App",
+    "create_account": "khởi tạo tài khoản",
+    "enter_email_to_receive_reset": "Nhập địa chỉ email để nhận link reset mật khẩu"
+  },
+  "reservation": {
+    "title": "Đặt bàn",
+    "guest": "Số lượng thực khách",
+    "enter_amount_guest": "Nhập số lượng thực khách",
+    "selectTime": "Thời gian muốn đặt bàn",
+    "seat": " Khu vực chỗ ngồi",
+    "hint_guest": "2 người",
+    "hint_seat": "Chọn khu vực chỗ ngồi",
+    "booking_table_success": "Bạn đã đặt bàn thành công!",
+    "detail_time_booking": "Bạn đã đặt bàn thành công cho {} người tại {} lúc {}",
+    "confirm_reservation_time": "Xác nhận giờ đặt bàn",
+    "would_you_like_to_book_a_table": "Bạn có muốn đặt bàn giờ này?",
+    "no_thank": "Không, cám ơn",
+    "ok_confirm": "Ok, Đồng ý đặt bàn"
+  },
+  "main_app": {
+    "home": "Trang chủ",
+    "menu": "Thực đơn",
+    "table_booking": "Đặt bàn",
+    "notification": "Thông báo",
+    "person": "Cá nhân",
+    "activity": "Hoạt động"
+  },
+  "home_page": {
+    "want_to_eat_today": "Hôm nay bạn muốn ăn gì?",
+    "what_do_eat_today": "Hôm nay ăn gì?",
+    "view_more": "Xem thêm",
+    "have_small_party": "Bạn sắp có buổi party nhỏ?",
+    "booking_table": "Đặt bàn ngay",
+    "drink": "Giải khát",
+    "special_food": "Món đặc trưng",
+    "ree_food": "R-Food"
+  },
+  "menu": {
+    "menu": "Thực Đơn",
+    "add_note_to_dish": "Thêm ghi chú cho món ăn",
+    "no_more_option": "Chưa có tuỳ chọn thêm",
+    "add_to_cart": "Thêm vào giỏ hàng {}",
+    "update_to_cart": "Cập nhật giỏ hàng {}"
+  },
+  "cart": {
+    "order": "Đặt hàng",
+    "total_order": "Bạn đã đặt tất cả {} món",
+    "remove_all": "Xoá hết",
+    "continue_order": "Tiếp tục chọn món",
+    "delivery_location": "Địa điểm nhận hàng",
+    "now": "Lấy liền",
+    "another_time": "Lúc khác",
+    "in_minute": "trong {} phút",
+    "order_success": "Đơn hàng đã đặt thành công!",
+    "order_success_description": "Đơn hàng của bạn sẽ được chuyển đến carteen để chuẩn bị.\nVui lòng chờ hệ thống thông báo cho bạn khi món đã sẵn sàng"
+  },
+  "profile": {
+    "person_information": "Thông tin cá nhân",
+    "my_order": "Đơn hàng của tôi",
+    "logout": "Đăng xuất",
+    "full_name": "Họ và tên",
+    "phone_number": "Số điện thoại",
+    "email": "Email",
+    "gender": "Giới tính",
+    "birth_day": "Ngày sinh",
+    "work_place": "Nơi làm việc tại REE",
+    "update": "Cập nhật tài khoản",
+    "cancel": "Hủy bỏ",
+    "save_change": "Lưu thay đổi",
+    "change_password": "Đổi mật khẩu",
+    "current_password": "Mật khẩu hiện tại",
+    "new_password": "Mật khẩu mới",
+    "re_password": "Nhập lại mật khẩu",
+    "_male": "Nam",
+    "_female": "Nữ",
+    "another": "Khác",
+    "change_avatar": "Đổi hình đại diện"
+  }
+}

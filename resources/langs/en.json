@@ -1,0 +1,97 @@
+{
+  "app_name": "REE Food App",
+  "splash": {
+    "welcome": "REE Corp đồng hành cùng khách hàng & đối tác",
+    "description": "REE App cung cấp dịch vụ và kết nối với khách hàng, đối tác của REE"
+  },
+  "auth": {
+    "login": "Login",
+    "login_to_experience": "Login to experience REE app",
+    "phone_number": "Phone number",
+    "enter_phone_number": "Enter phone number",
+    "password": "Password",
+    "enter_password": "Enter password",
+    "forgot_password": "Forgot password?",
+    "sign_in_with_google": "Sign in with Google",
+    "sign_in_with_apple": "Sign in with Apple",
+    "sign_up": "Sign up",
+    "if_you_do_not_have_an_account": "if you do not have an account",
+    "welcome_experience_ree": "Welcome to experience REE App",
+    "create_account": "Create an account",
+    "enter_email_to_receive_reset": "Enter your email address to receive the password reset link"
+  },
+  "main_app": {
+    "home": "Home",
+    "menu": "Menu",
+    "table_booking": "Table Booking",
+    "notification": "Notification",
+    "person": "Person",
+    "activity": "Activity"
+  },
+  "reservation": {
+    "title": "Đặt bàn",
+    "guest": "Number of diners",
+    "enter_amount_guest": "Enter Number of diners",
+    "selectTime": "Thời gian muốn đặt bàn",
+    "seat": " Khu vực chỗ ngồi",
+    "hint_guest": "2 người",
+    "hint_seat": "Chọn khu vực chỗ ngồi",
+    "booking_table_success": "You have successfully booked a table!",
+    "detail_time_booking": "You have successfully booked a table for {} at {} at {}",
+    "confirm_reservation_time": "Confirm your reservation time",
+    "would_you_like_to_book_a_table": "Would you like to book a table?",
+    "no_thank": "No, thank",
+    "ok_confirm": "Ok, confirm order"
+  },
+  "home_page": {
+    "want_to_eat_today": "What do you want to eat today?",
+    "what_do_eat_today": "That do eat today?",
+    "view_more": "View more",
+    "have_small_party": "Are you going to have a small party?",
+    "booking_table": "Book a table now",
+    "drink": "Drink",
+    "special_food": "Special food",
+    "ree_food": "R-Food"
+  },
+  "menu": {
+    "menu": "Menu",
+    "add_note_to_dish": "Add a note to the dish",
+    "no_more_option": "No more option",
+    "add_to_cart": "Add to cart {}",
+    "update_to_cart": "Update to cart {}"
+  },
+  "cart": {
+    "order": "Order",
+    "total_order": "You ordered {} dishes",
+    "remove_all": "Remove all",
+    "continue_order": "Continue order",
+    "delivery_location": "Delivery location",
+    "now": "Now",
+    "another_time": "Another time",
+    "in_minute": "in {} minutes",
+    "order_success": "Order success!",
+    "order_success_description": "Your order will be sent to the carteen for preparation.\nPlease wait for the system to notify you when the dish is ready"
+  },
+  "profile": {
+    "person_information": "Person information",
+    "my_order": "My order",
+    "logout": "Logout",
+    "full_name": "Full name",
+    "phone_number": "Phone number",
+    "email": "Email",
+    "gender": "Gender",
+    "birth_day": "Birth day",
+    "work_place": "Work place",
+    "update": "Update",
+    "cancel": "Cancel",
+    "save_change": "Save change",
+    "change_password": "Change password",
+    "current_password": "Current password",
+    "new_password": "New password",
+    "re_password": "Renew Password",
+    "_male": "Male",
+    "_female": "Female",
+    "another": "Another",
+    "change_avatar": "Change avatar"
+  }
+}
